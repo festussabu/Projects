@@ -1,0 +1,41 @@
+man, whatis (command) - to check how to use a command
+touch - for creating files
+mkdir - for creating folders
+rm, rmdir, rm -rf - for removing file, directory, for deleting directory with files
+cat - for displaying contents inside a file
+mv, cp - move and copy
+whoami - will tell user name
+useradd, deluser - add or rm new user
+passwd (user) - to change pass
+finger (user) - to look the user details
+zip, unzip - zip or unzip files
+cmp - compare
+diff - for finding differnce
+uname -a, neofetch - details about os
+cal - calendar
+echo 77+7 | bc - for math
+free, df -H - for storage details
+pkill -f - to stop something
+history - find all the previosly written commands
+sudo reboot - reboot the system
+sudo shutdown -h now, sudo shutdown - shotdown you system now, shutdown in one min
+cat terminal_commands | sort - for sorting according to aphabetical order
+
+sudo apt-get remove package, sudo snap remove, rm -rf ~/.config/(pkg)/, sudo apt-get autoremove - for removing apt isntall packages, for removing snap packages, to remove the leftover files, to remove unused dependancy that where isntalled alongeisde 
+
+dconf-editor - for editing keybindings and more
+
+pwd - for getting the current location of the selected directory
+ctrl + l - clear the screen
+ls -a - to check the hidden files inside a folder
+
+Editing a file:- 
+x: Deletes the character under the cursor.
+dw: Deletes from the cursor position to the end of the current word.
+db: Deletes from the cursor position to the beginning of the current word.
+dd: Deletes the entire line.
+
+gedit- to open the file in a text editor
+
+sudo apt install gnome-tweaks- for editing purpose of os.
+

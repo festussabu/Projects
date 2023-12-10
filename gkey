@@ -1,0 +1,3 @@
+git remote add origin https://github.com/festussabu/Projects.git
+git merge origin/master --allow-unrelated-histories
+
